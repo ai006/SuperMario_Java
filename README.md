@@ -14,4 +14,4 @@ Ctrl key - throw fireballs.
 
 
 To run the game:
-make sure you build you build all the java files or try using build file. to run the use the command java Game 
+make sure you build you build all the java files or try using build file. To run the game use the command java Game after compiling all the files.
